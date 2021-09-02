@@ -89,7 +89,7 @@
 		new Achievement("Hand-made cookies are still the best", "Make <b>100 quattuordecillion</b> cookies from clicking.", [5, 5, "https://i.imgur.com/nv69nsg.png"], 1),
 		new Achievement("My strange clicking addiction", "Make <b>10 quindecillion</b> cookies from clicking.", [6, 5, "https://i.imgur.com/nv69nsg.png"], 1),
 
-		// ~ ~ ~ BUILDINGS ~ ~ ~ 
+		// ~ ~ ~ BUILDING ~ ~ ~ 
 
 		new Achievement("Owner of Buildings", "Own <b>3000</b> buildings.", [0, 0, "https://i.imgur.com/GGrHHrA.png"], 1),
 		//new Achievement("Build up", "Own <b>4000</b> buildings.", [1, 0, "https://i.imgur.com/GGrHHrA.png"], 1),
